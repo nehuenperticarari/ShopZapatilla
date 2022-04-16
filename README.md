@@ -1,1 +1,1 @@
-# WEB de ventas, tipo shop usando unicamente HTML Y CSS
+# Sale shop, only HTML Y CSS.
